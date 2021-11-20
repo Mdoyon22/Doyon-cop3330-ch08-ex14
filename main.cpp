@@ -10,8 +10,8 @@ using namespace std;
 
 int main()
 {
-    int a = 100;
-    int b = 100;
+    int a = 1000;
+    int b = 500;
     int c;
 
     c = add(a, b);
